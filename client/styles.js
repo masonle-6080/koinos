@@ -15,5 +15,10 @@ export const styles = StyleSheet.create({
     },
     text: {
         fontFamily: 'Menlo'
+    },
+    center: {
+        justifyCenter: "center",
+        alignItems: 'center',
+        gap: '20'
     }
 })
